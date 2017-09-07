@@ -8,11 +8,7 @@ class FWSpider(scrapy.Spider):
     allowed_domains = ["http://www.sizubeijing.com/"]
    
     def start_requests(self):
-        urls=[ "http://www.sizubeijing.com/item.php?act=list&catid=2",
-        "http://www.sizubeijing.com/item.php?act=list&catid=1&aid=2.php",
-        "http://www.sizubeijing.com/item.php?act=list&catid=1&aid=3",
-        "http://www.sizubeijing.com/item.php?act=list&catid=1&aid=4",
-        ]
+        urls=["http://www.dushitiyan.com/ShopList.aspx?dist="+str(a) for a in range(0,60)]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -20,12 +16,14 @@ class FWSpider(scrapy.Spider):
         sel = response.selector
         print(response.url)
         urlList = sel.xpath('//div[@class="tit"]/a/@href').extract()
-        # print (urlList)
+        # print (urlList)with open('log.txt', 'a') as f:
+        txtUrlList = open('urlList.txt', 'w')
         for subUrl in urlList:   
             subUrl ="http://www.sizubeijing.com"+subUrl
+            txtUrlList.write(subUrl+'\n')
             print (subUrl)
             yield scrapy.Request(url=subUrl, callback=self.parse_item,dont_filter = True)
-
+        txtUrlList.close()
         # subUrl = Selector(response=response).xpath('//div[@class="tit"]/a/@href').extract()
         
         # subUrl =response.urljoin(subUrl)
@@ -54,7 +52,6 @@ class FWSpider(scrapy.Spider):
          dizhi = response.selector.xpath('//div/p[@class="expand-info"]/span/text()') \
          .extract()
          print(dizhi)
-         
          lianxi = response.selector.xpath('//div/p[@class="expand-info tel"]/span/text()') \
          .extract()
          print(lianxi)
@@ -62,5 +59,7 @@ class FWSpider(scrapy.Spider):
          item['mingcheng'] = ""
          item['didian'] = dizhi
          item['telNum'] = lianxi
+         with open('log.txt', 'a') as f:
+             f.write('name: {0}, link: {1}\n'.format(item['mingcheng'], item['didian']))
          return [item]
       
