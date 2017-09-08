@@ -1,0 +1,10 @@
+cd "C:\Program Files\MongoDB\Server\3.4\bin\"
+mongod --dbpath C:\data
+
+在浏览器输入：http://localhost:27017/，可以看到如下提示：
+You are trying to access MongoDB on the native driver port. For http diagnostic access, add 1000 to the port number
+如此，MongoDB数据库服务已经成功启动了。
+
+重新开启一个cmd 
+cd  "C:\Program Files\MongoDB\Server\3.4\bin\"
+mongo.exe
