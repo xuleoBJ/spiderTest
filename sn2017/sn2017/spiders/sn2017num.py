@@ -8,30 +8,36 @@ class FWSpider(scrapy.Spider):
     allowed_domains = ["http://www.sizubeijing.com/"]
    
     def start_requests(self):
-        urls=["http://www.dushitiyan.com/ViewShop.aspx?id="+str(a) for a in range(0,2000)]
+        urls=["http://www.dushitiyan.com/ViewShop.aspx?id="+str(a) for a in range(1,200000)]
+        iNum = 0
         for url in urls:
+            iNum = iNum + 1
+            if iNum % 100 == 0:
+                 print("记录"+str(iNum))
             yield scrapy.Request(url=url, callback=self.parse, dont_filter = True)
 
 
     def parse(self, response):
+         
          mingcheng = response.selector.xpath('//div/h1[@class="shop-name"]/text()') \
          .extract()
-         print(mingcheng)
+       #  print(mingcheng)
          pingjia = response.selector.xpath('//div/div[@class="brief-info"]/span/text()') \
          .extract()
-         print(pingjia)
+       #  print(pingjia)
          dizhi = response.selector.xpath('//div/p[@class="expand-info address"]/span/text()') \
          .extract()
-         print(dizhi)
+       #  print(dizhi)
          lianxi = response.selector.xpath('//div/p[@class="expand-info tel"]/span/text()') \
          .extract()
-         print(lianxi)
+       # print(lianxi)
          item = snItem()
          item['mingcheng'] = mingcheng
          item['dizhi'] = dizhi
          item['stars'] = pingjia
          item['telNum'] = lianxi
          item['pingjia'] = pingjia
+         
          with open('infor.txt', 'a') as f:
              if item['mingcheng']!='':
                 f.write('名称: {0}, 地址: {1},联系方式: {2}, 评价: {3}\n'.format( \

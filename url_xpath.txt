@@ -1,0 +1,2 @@
+http://www.233mr.com/search/binqizhenxu/
+sel.xpath('//div/ul/li[@class="list_title"]').extract()
