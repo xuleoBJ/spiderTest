@@ -8,7 +8,7 @@ class FWSpider(scrapy.Spider):
     allowed_domains = ["http://www.sizubeijing.com/"]
    
     def start_requests(self):
-        urls=["http://www.dushitiyan.com/ShopList.aspx?dist="+str(a) for a in range(0,60)]
+        urls=["http://www.dushitiyan.com/ShopList.aspx?remen=1&district="+str(a) for a in range(49,50)]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -17,49 +17,49 @@ class FWSpider(scrapy.Spider):
         print(response.url)
         urlList = sel.xpath('//div[@class="tit"]/a/@href').extract()
         # print (urlList)with open('log.txt', 'a') as f:
-        txtUrlList = open('urlList.txt', 'w')
-        for subUrl in urlList:   
-            subUrl ="http://www.sizubeijing.com"+subUrl
+        txtUrlList = open('_urlList.txt', 'w')
+        for subUrl in urlList:
+            subUrl ="http://www.dushitiyan.com"+subUrl
             txtUrlList.write(subUrl+'\n')
+        txtUrlList.close()
+        for subUrl in urlList:   
+            subUrl ="http://www.dushitiyan.com"+subUrl
             print (subUrl)
             yield scrapy.Request(url=subUrl, callback=self.parse_item,dont_filter = True)
-        txtUrlList.close()
-        # subUrl = Selector(response=response).xpath('//div[@class="tit"]/a/@href').extract()
-        
-        # subUrl =response.urljoin(subUrl)
-        # print (subUrl)
 
-        # page = response.url.split("/")[-2]
-        # filename = 'sn-%s.html' % page
-        # with open(filename, 'wb') as f:
-        #     f.write(response.body)
-        # self.log('Saved file %s' % filename)
-
-       # return [Request(subUrl, callback=self.parse_item)]
+            ## 翻页查询
+            # yield scrapy.FormRequest.from_response(response=response,
+            #                                    clickdata=self.parse_item,
+            #                                    dont_filter = True ,
+            #                                    formdata={'__EVENTTARGET': 'ctl00$Content$AspNetPager1',
+            #                                     '__EVENTARGUMENT': [str(i) for i in range(5)]})
+       
       
 
     def parse_item(self, response):
     # item['key'] = value
         #  print("ok")
         #  print(response.url)
-
          mingcheng = response.selector.xpath('//div/h1[@class="shop-name"]/text()') \
          .extract()
          print(mingcheng)
          pingjia = response.selector.xpath('//div/div[@class="brief-info"]/span/text()') \
          .extract()
          print(pingjia)
-         dizhi = response.selector.xpath('//div/p[@class="expand-info"]/span/text()') \
+         dizhi = response.selector.xpath('//div/p[@class="expand-info address"]/span/text()') \
          .extract()
          print(dizhi)
          lianxi = response.selector.xpath('//div/p[@class="expand-info tel"]/span/text()') \
          .extract()
          print(lianxi)
          item = snItem()
-         item['mingcheng'] = ""
-         item['didian'] = dizhi
+         item['mingcheng'] = mingcheng
+         item['dizhi'] = dizhi
+         item['stars'] = pingjia
          item['telNum'] = lianxi
-         with open('log.txt', 'a') as f:
-             f.write('name: {0}, link: {1}\n'.format(item['mingcheng'], item['didian']))
+         item['pingjia'] = pingjia
+         with open('infor.txt', 'a') as f:
+             f.write('名称: {0}, 地址: {1},联系方式: {2}, 评价: {3}\n'.format( \
+             item['mingcheng'], item['dizhi'], item['telNum'],item['pingjia'] ))
          return [item]
       

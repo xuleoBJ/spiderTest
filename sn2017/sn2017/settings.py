@@ -14,12 +14,19 @@ BOT_NAME = 'sn2017'
 SPIDER_MODULES = ['sn2017.spiders']
 NEWSPIDER_MODULE = 'sn2017.spiders'
 
+MONGO_HOST = "127.0.0.1"
+MONGO_PORT = 27017
+MONGO_DB = "Fengyue"   #db name
+MONGO_COLL = "huisuo"  #collection name
+# MONGO_USER ="xx"
+# MONGO_PSW = "123456"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'sn2017 (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False #不遵守robot
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

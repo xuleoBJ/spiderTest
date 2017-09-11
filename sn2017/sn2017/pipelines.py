@@ -6,10 +6,20 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import json, codecs
 
+import pymongo
+from scrapy.conf import settings
+
 class Sn2017Pipeline(object):
     def __init__(self):
-        self.file = codecs.open('result.json', 'w', encoding='utf-8')
+        self.client = pymongo.MongoClient(host = settings['MONGO_HOST'],port = settings['MONOGO_PORT'])
+        # 数据库登录需要帐号密码的话
+        # self.client.admin.authenticate(settings['MINGO_USER'], settings['MONGO_PSW'])
+        self.db = self.client[settings['MONGO_DB']]  # 获得数据库的句柄
+        self.coll = self.db[settings['MONGO_COLL']]  # 获得collection的句柄
     def process_item(self, item, spider):
-        line = json.dumps(dict(item)) + '\n'  
-        self.file.write(line.decode("unicode_escape"))
-        return item
+        if item['mingcheng']=='':
+            raise DropItem()
+        else:
+            postItem = dict(item)  # 把item转化成字典形式
+            self.coll.save(postItem)  # 向数据库插入一条记录
+            return item  # 会在控制台输出原item数据，可以选择不写
