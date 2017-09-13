@@ -7,6 +7,8 @@
 
 from scrapy import signals
 
+import base64 
+import random
 
 class NewsgetSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
@@ -54,3 +56,20 @@ class NewsgetSpiderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+class ProxyMiddleware(object):
+    # overwrite process request
+    proxy_list=[
+    "http://127.0.0.1:9002"]
+    def process_request(self, request, spider):
+        # Set the location of the proxy
+        ip = random.choice(self.proxy_list)
+        print (ip)
+        request.meta['proxy'] =  random.choice(ip)
+        
+  
+        # Use the following lines if your proxy requires authentication
+        #proxy_user_pass = "USERNAME:PASSWORD"
+        # setup basic authentication for the proxy
+        # encoded_user_pass = base64.encodestring(proxy_user_pass)
+        # request.headers['Proxy-Authorization'] = 'Basic ' + encoded_user_pass
