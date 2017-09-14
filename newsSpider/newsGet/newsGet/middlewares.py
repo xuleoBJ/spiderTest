@@ -60,12 +60,13 @@ class NewsgetSpiderMiddleware(object):
 class ProxyMiddleware(object):
     # overwrite process request
     proxy_list=[
-    "http://127.0.0.1:9002"]
+    "https://127.0.0.1:8118",
+    "https://127.0.0.1:8118",]
     def process_request(self, request, spider):
         # Set the location of the proxy
         ip = random.choice(self.proxy_list)
         print (ip)
-        request.meta['proxy'] =  random.choice(ip)
+        request.meta['proxy'] =  "http://127.0.0.1:8118"
         
   
         # Use the following lines if your proxy requires authentication

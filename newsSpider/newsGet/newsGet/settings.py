@@ -55,7 +55,7 @@ ROBOTSTXT_OBEY = False
 DOWNLOADER_MIDDLEWARES = {
    #'newsGet.middlewares.MyCustomDownloaderMiddleware': 543,
    'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
-   'newsGet.middlewares.ProxyMiddleware':1,
+   'newsGet.middlewares.ProxyMiddleware':543,
 }
 
 # Enable or disable extensions
