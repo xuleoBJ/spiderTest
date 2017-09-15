@@ -1,5 +1,6 @@
 import scrapy
 import random
+import juzimi.items
 class JuzimiSpider(scrapy.Spider):
     
     name = "juzimiSpider"
@@ -26,11 +27,10 @@ class JuzimiSpider(scrapy.Spider):
         "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24"
        ]
 
-    proxy_pool = ['http://10.22.96.29:8080',
-    ]
+    proxy_pool = ['https://127.0.0.1:8087']
 
     def start_requests(self):
-        urls=["http://www.juzimi.com/ju/"+str(a) for a in range(2140,2142)]
+        urls=["http://www.juzimi.com/ju/"+str(a) for a in range(45384,45400)]
 
         #urls=["http://www.baidu.com"]
 
@@ -49,11 +49,17 @@ class JuzimiSpider(scrapy.Spider):
     def parse(self, response):
         #sel是页面源代码，载入scrapy.selector
         print (str(response.status)+" "+response.url)
+        item = juzimi.items.JuzimiItem()
         if response.status == 200 :
             sel = response.selector
-        # #每个连接，用@href属性
-        #     for link in sel.xpath('//h2/a/@href').extract():
-        #     #请求=Request(连接，parese_item)
-        #         request = scrapy.Request(link, callback=self.parse_item)
-        #         yield request#返回请求
-      
+            juzi = sel.xpath('//title/text()').extract()
+            item['juzi']= juzi
+            writer = sel.xpath('////span[@class="field field-type-content-taxonomy field-field-oriwriter"]/a[@title and @ href]/text()')
+            item['writer']= writer
+            article = sel.xpath('//span[@class="field field-type-content-taxonomy field-field-oriarticle"]/a[@title and @ href]/text()')
+            item['article']= article
+            xihua = sel.xpath('//a[@title="查看心得/评论"]/text()')
+            item['xihua']= xihua
+            print(item)
+            return item
+                  

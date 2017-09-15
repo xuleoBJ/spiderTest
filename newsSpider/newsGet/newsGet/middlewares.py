@@ -66,7 +66,7 @@ class ProxyMiddleware(object):
         # Set the location of the proxy
         ip = random.choice(self.proxy_list)
         print (ip)
-        request.meta['proxy'] =  "http://127.0.0.1:8118"
+        request.meta['proxy'] =  "https://127.0.0.1:8087"
         
   
         # Use the following lines if your proxy requires authentication

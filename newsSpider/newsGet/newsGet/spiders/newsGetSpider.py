@@ -4,7 +4,7 @@ class newsSpider(scrapy.Spider):
     name = "newsGet"
 
     def start_requests(self):
-        urls= ['http://www.yahoo.com',
+        urls= ['http://www.times.com',
                'http://www.dwnews.com',]
 
         for url in urls:
@@ -14,5 +14,7 @@ class newsSpider(scrapy.Spider):
     def parse(self,response):
         print(response.url)
         print(response.status)
+        sel = response.selector
+        print(sel.xpath("//h3").extract())
         
 
