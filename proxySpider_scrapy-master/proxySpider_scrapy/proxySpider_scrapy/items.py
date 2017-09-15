@@ -8,8 +8,6 @@
 import scrapy
 
 
-class MeizituItem(scrapy.Item):
-    #定义item对象,包含如下
-    url = scrapy.Field()
-    name = scrapy.Field()
-    image_urls = scrapy.Field()
+class ProxyItem(scrapy.Item):
+    ip = scrapy.Field()#ip
+    port = scrapy.Field()#端口

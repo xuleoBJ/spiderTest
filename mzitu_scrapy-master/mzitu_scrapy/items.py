@@ -8,8 +8,10 @@
 import scrapy
 
 
-class MeizituItem(scrapy.Item):
-    #定义item对象,包含如下
-    url = scrapy.Field()
+class MzituScrapyItem(scrapy.Item):
+    # define the fields for your item here like:
+    # name = scrapy.Field()
     name = scrapy.Field()
     image_urls = scrapy.Field()
+    url = scrapy.Field()
+    pass
