@@ -31,7 +31,7 @@ class JuzimiSpider(scrapy.Spider):
 
     def start_requests(self):
         urls=["http://www.juzimi.com/totallike?page="+str(a) for a in range(1,50)]
-        urls.insert(0,"http://www.juzimi.com/totallike")
+
         #urls=["http://www.baidu.com"]
 
         iNum = 0
@@ -62,3 +62,4 @@ class JuzimiSpider(scrapy.Spider):
             item['xihua']= xihua
             print(item)
             return item
+                  

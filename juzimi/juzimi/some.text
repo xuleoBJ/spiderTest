@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\Scripts\scrapy-script.py", line 5, in <module>
+    sys.exit(scrapy.cmdline.execute())
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\cmdline.py", line 148, in execute
+    cmd.crawler_process = CrawlerProcess(settings)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\crawler.py", line 243, in __init__
+    super(CrawlerProcess, self).__init__(settings)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\crawler.py", line 134, in __init__
+    self.spider_loader = _get_spider_loader(settings)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\crawler.py", line 330, in _get_spider_loader
+    return loader_cls.from_settings(settings.frozencopy())
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\spiderloader.py", line 61, in from_settings
+    return cls(settings)
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\spiderloader.py", line 25, in __init__
+    self._load_all_spiders()
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\spiderloader.py", line 47, in _load_all_spiders
+    for module in walk_modules(name):
+  File "C:\ProgramData\Anaconda3\lib\site-packages\scrapy\utils\misc.py", line 71, in walk_modules
+    submod = import_module(fullpath)
+  File "C:\ProgramData\Anaconda3\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 978, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 961, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 950, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 655, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 205, in _call_with_frames_removed
+  File "E:\spiderTest\juzimi\juzimi\spiders\juzimi_spiders.py", line 55
+    juzi = sel.xpath('//div[@class="views-field-phpcode-1"]/a[@title and @ href]/text()').extract()
+                                                                                                  ^
+IndentationError: unindent does not match any outer indentation level

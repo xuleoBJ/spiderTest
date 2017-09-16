@@ -30,8 +30,8 @@ class JuzimiSpider(scrapy.Spider):
     proxy_pool = ['https://127.0.0.1:8087']
 
     def start_requests(self):
-        urls=["http://www.juzimi.com/totallike?page="+str(a) for a in range(1,50)]
-        urls.insert(0,"http://www.juzimi.com/totallike")
+        urls=["http://www.juzimi.com/ju/"+str(a) for a in range(45384,45400)]
+
         #urls=["http://www.baidu.com"]
 
         iNum = 0
@@ -52,13 +52,14 @@ class JuzimiSpider(scrapy.Spider):
         item = juzimi.items.JuzimiItem()
         if response.status == 200 :
             sel = response.selector
-            juzi = sel.xpath('//div[@class="views-field-phpcode-1"]/a[@title and @ href]/text()').extract()
+            juzi = sel.xpath('//title/text()').extract()
             item['juzi']= juzi
-            writer = sel.xpath('//div[@class="xqjulistwafo"]/a[@class="views-field-field-oriwriter-value"]/text()').extract()
+            writer = sel.xpath('//span[@class="field field-type-content-taxonomy field-field-oriwriter"]/a[@title and @ href]/text()')
             item['writer']= writer
-            article = sel.xpath('//span[@class="field field-type-content-taxonomy field-field-oriarticle"]/a[@title and @ href]/text()').extract()
+            article = sel.xpath('//span[@class="field field-type-content-taxonomy field-field-oriarticle"]/a[@title and @ href]/text()')
             item['article']= article
-            xihua = sel.xpath('//div[@class="views-field-ops"]/a[@title="喜欢本句"]/text()').extract()
+            xihua = sel.xpath('//a[@title="查看心得/评论"]/text()')
             item['xihua']= xihua
             print(item)
             return item
+                  
