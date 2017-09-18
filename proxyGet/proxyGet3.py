@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import threading
 import sys
-
+import requests
 
 inFile = open('E:\\spiderTest\\proxyGet\\proxy.txt')
 outFile = open('verified.txt', 'w')
@@ -26,29 +26,48 @@ def getProxyList(targeturl="http://www.xicidaili.com/nn/"):
     
         soup = BeautifulSoup(html_doc, "html.parser")
         #print soup
-        trs = soup.find('table', id='ip_list').find_all('tr')
-        for tr in trs[1:]:
-            tds = tr.find_all('td')
-            #国家
-            if tds[1].find('img') is None :
-                nation = '未知'
-                locate = '未知'
-            else:
-                nation =   tds[1].find('img')['alt'].strip()
-                locate  =   tds[4].text.strip()
-            ip      =   tds[2].text.strip()
-            port    =   tds[3].text.strip()
-            anony   =   tds[5].text.strip()
-            protocol=   tds[6].text.strip()
-            speed   =   tds[7].find('div')['title'].strip()
-            time    =   tds[9].text.strip()
-            
-            proxyFile.write('%s|%s|%s|%s|%s|%s|%s|%s\n' % (nation, ip, port, locate, anony, protocol,speed, time) )
-            #print '%s=%s:%s' % (protocol, ip, port)
-            countNum += 1
+        table= soup.find('table', id='ip_list')
+        for tr in table.findAll('tr'):
+                tds = tr.find_all('td')
+                if len(tds)>9:
+                    #国家
+                    if tds[0].find('img') is None :
+                        nation = '未知'
+                        locate = '未知'
+                    else:
+                        nation =   tds[0].find('img')['alt'].strip()
+                        locate  =   tds[3].text.strip()
+                    ip      =   tds[1].text.strip()
+                    port    =   tds[2].text.strip()
+                    anony   =   tds[4].text.strip()
+                    protocol=   tds[5].text.strip()
+               #     speed   =   tds[5].find('div')['title'].strip()
+                    time    =   tds[8].text.strip()
+                    
+                    if verifyProxy(ip,port,protocol):
+                        proxyFile.write('%s|%s|%s|%s|%s|%s|%s\n' % (nation, ip, port, locate, anony, protocol, time) )
+                        countNum += 1
+                        print ('%s=%s:%s is ok' % (protocol, ip, port))
+                    else:
+                        print ('%s=%s:%s is not ok' % (protocol, ip, port))
     
     proxyFile.close()
     return countNum
+
+def verifyProxy(ip,port,protocol):
+    requestHeader = {'User-Agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36"}
+    myurl = 'http://www.baidu.com/'
+    ipProxy = protocol+':'+ip+':'+port
+    print (ipProxy)
+    try:
+        r = requests.get(myurl,headers=requestHeader,proxies={protocol:ip+':'+port},verify=True,timeout=6)
+        if  r.status_code == 200:
+            return 1
+        else:
+            return 0
+    except error.urlError as e:
+        print(e.reason)
+        return 0
     
 def verifyProxyList():
     '''
@@ -94,15 +113,15 @@ if __name__ == '__main__':
 
     print (u"\n验证代理的有效性：")
     
-    all_thread = []
-    for i in range(30):
-        t = threading.Thread(target=verifyProxyList)
-        all_thread.append(t)
-        t.start()
-        
-    for t in all_thread:
-        t.join()
-    
-    inFile.close()
-    outFile.close()
+##    all_thread = []
+##    for i in range(30):
+##        t = threading.Thread(target=verifyProxyList)
+##        all_thread.append(t)
+##        t.start()
+##        
+##    for t in all_thread:
+##        t.join()
+##    
+##    inFile.close()
+##    outFile.close()
     print ("All Done.")
