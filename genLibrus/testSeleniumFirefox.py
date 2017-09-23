@@ -25,8 +25,7 @@ def getDown(itemUrl):
 
 
 urlList=[]
-urlList.append("http://gen.lib.rus.ec/book/index.php?md5=E27AE34E710DBE9652CA69682CE16D04&open=3")
-urlList.append("http://gen.lib.rus.ec/book/index.php?md5=E6BC3A224D76A9E02E2B7D62F37DD29F&open=3")
+urlList.append("http://gen.lib.rus.ec/book/index.php?md5=3BD277D29365DB7223A18E86463CA718&open=3")
 
 for itemUrl in urlList:
     getDown(itemUrl)
