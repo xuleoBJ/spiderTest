@@ -1,4 +1,3 @@
-
 import requests
 import os
 from bs4 import BeautifulSoup
@@ -8,9 +7,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 curDir = os.path.dirname(os.path.abspath(__file__))
-browser = webdriver.Firefox(executable_path= os.join(curDir , \
-            r'..//geckodriver//geckodriver-v0.19.0-win64//geckodriver.exe')            
-user_agent_list = [
+browser = webdriver.Firefox(executable_path= os.path.join(curDir , r'..//geckodriver//geckodriver-v0.19.0-win64//geckodriver.exe'))
+user_agent_list = [ 
         "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1"\
         "Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11",\
         "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6",\
@@ -60,7 +58,7 @@ def getDown(itemUrl):
 
 
 urlList=[]
-urlList.append("http://gen.lib.rus.ec/book/index.php?md5=3BD277D29365DB7223A18E86463CA718&open=3")
+urlList.append("http://gen.lib.rus.ec/book/index.php?md5=F27BF5EAC8FB10E0C5CB599554CA6E68&open=3")
 
 for itemUrl in urlList:
     getDown(itemUrl)
