@@ -1,0 +1,3156 @@
+商户1101[<div class="basic-info basic-active">
+<h1 class="shop-name">逍遥阁会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">九龙山地铁站附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13641350457</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3554066973</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/56">魅力</a> 添加商户   |   添加时间：2017-02-01   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">逍遥阁私人会所是一家男子养生会所，地理位置优越，环境私密高端，静雅套房，尽享您的尊贵！秉承顾客至上的原则，为您提供高端的私人定制服务，有帝王般体验，水疗师经过专业训练，针对不同喜好的贵宾给予全身心的减压。水疗师佳丽，理云鬓，慢梳妆，曼妙轻盈，身临其中，您将身心合一，尽享养生之极致，令您心醉神迷！                  	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">81</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1101);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1101' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1102[<div class="basic-info basic-active">
+<h1 class="shop-name">储秀宫       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">草桥地铁站附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15311998893</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3014459426</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">10点到24点</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">储秀宫是一家高档的养生减压会所，交通便利，环境优雅，高档公寓，安静私密，拥多位训练有素的水疗养生顾问，是您休闲减压的良好伴侣。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">166</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1102);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1102' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1103[<div class="basic-info basic-active">
+<h1 class="shop-name">水沐年华日式水墨拉丝体验馆       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">朝阳门朝外大街</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13264211577</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2959900252</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">SWF666888SPA</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨1:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">水沐年华 水疗SPA体验馆 精选了一批专业负责的水疗师，均受专人培训，技师年轻貌美，技艺精湛，服务贴心 环境高端 优雅宁静，一定能繁忙之中的您带来极致的放松乐趣！：保时间足钟 保服务质量 保不没有隐形消费， 恭候各界贵宾前来体验。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">121</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1103);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1103' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1104[<div class="basic-info basic-active">
+<h1 class="shop-name">逍遥楼减压会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">西二环西直门附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">187-0169-7947</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3180753823</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨0:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">134</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1104);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1104' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1105[<div class="basic-info basic-active">
+<h1 class="shop-name">陌上花开       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">朝阳北苑家园</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">17055101893</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3483804752</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15001086615</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00—凌晨1:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">陌上花开专注男士SPA按摩，让成功的您更自信更快乐，给你激情，给你畅快的体验。让暴躁的身体归于平静，让生活的脚步缓慢下来，用一些时间去沉淀，挖掘生命的厚度，发现新奇的玩儿法。<br/>
+人生在世如春梦，且自开怀饮几盅。夜色正迷人，妾盼与君缠绵月下，共舞庭前。<br/>
+备注：本店接受支付宝 微信支付   车位充足，长期招聘技师，要求才貌双全，高颜值。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">364</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1105);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1105' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1106[<div class="basic-info basic-active">
+<h1 class="shop-name">清幽如兰       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">广安门外大街、地铁7号线 达观营站附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15810089661</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2424784052</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">清幽如兰地处西南二环，交通便利，环境优雅，是您养生减压的理想场所。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">119</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1106);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1106' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1107[<div class="basic-info basic-active">
+<h1 class="shop-name">逍遥居水磨馆       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">南三环方庄桥附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15810900605</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">362071112</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15810900605</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">本会所以健康养生的情趣和私密尊宠的体验为核心, 温馨的环境，帝王式的服务，激情梦幻的视觉享受，为您提供舒适贴心服务！本会所特聘请了多名专业水疗SPA丝足师，均95后小鲜肉颜值高，温柔体贴，让您灵魂全身心得以释放。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">119</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1107);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1107' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1108[<div class="basic-info basic-active">
+<h1 class="shop-name">蓝蝶减压水墨会馆       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">太阳宫北街</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13011876937</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2253738114</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">专业水墨拉丝，优质技师，专业服务                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">107</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1108);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1108' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1109[<div class="basic-info basic-active">
+<h1 class="shop-name">金水湾健康会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">万寿路南莲宝路口东红旗渠大厦附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13141268788</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1798633920</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">金水湾男子健康会所交通便利，环境优雅，是一家高端养生会所，多位训练有素的养生顾问，一定能够帮你全面调整亚健康状态，让您充满活力。<br/>
+<br/>
+备注：本店长期招聘优秀技师                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">131</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1109);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1109' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1110[<div class="basic-info basic-active">
+<h1 class="shop-name">水仙塘       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str4"></span>
+<span class="item">3条评论</span>
+<span class="item">人均消费：1198元/人</span>|
+            	<span class="item">技师质量：4</span>|            	
+            	<span class="item">服务态度：4</span>|            	
+            	<span class="item">商家环境：5</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">大兴区新发地</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15624906889</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3334329358</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/57">幸喜</a> 添加商户   |   添加时间：2017-02-15   |   						<a href="/space-697.html" target="_blank">豹哥</a>
+					
+ 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">一曲霓虹诉衷肠，半墨书香尽离殇，荷轻漾，夏满塘，镜前端红妆。亭堂姑娘，青笋弹三两行，又起宫商，一曲随风惊世舞霓裳。花落香，只为君，君知否？                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">218</span>次浏览，<span class="font_2">3</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1110);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1110' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1111[<div class="basic-info basic-active">
+<h1 class="shop-name">桃花小屋       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">东二环建国门附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">17068412385</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2519227960</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/58">霓裳阁</a> 添加商户   |   添加时间：2017-02-21   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			 桃花小屋养生会所是一家养生休闲的高端会所，项目新鲜独特，手法专业减压，是您养生休闲的理想场所。  
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">80</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1111);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1111' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1112[<div class="basic-info basic-active">
+<h1 class="shop-name">公主金屋       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">太阳宫地铁附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18301248400</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3575921507</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-02-21   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">独立公寓，南北方水疗师妹妹，技术到位，服务细腻，不机车，欢迎各位宾客来体验服务。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">81</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1112);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1112' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1113[<div class="basic-info basic-active">
+<h1 class="shop-name">清丝阁男士减压会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">双井-富力城</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13718937110</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">981824798  QQ 3234752368</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">清丝阁男士减压会所，坐落于东三环，繁华地段的宁静一隅，我们的水疗师都是经过精挑细选的，既相貌美丽，而又纯洁善良的人！我们一直秉承着“没有美丽的心灵，就做不出完美的服务！”我们不依赖与先进的机器，只靠会说话的手和脚。通过推，拨，划，等独特脚法，疏通全身经络和肌肉！配合细腻轻滑的手法，有效的缓解肌肉僵硬，促进血液循环，从而达到身，心，灵的全面放松！本店是绿色减压会所，请感觉享受型的顾客放心前往！                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">134</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1113);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1113' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1114[<div class="basic-info basic-active">
+<h1 class="shop-name">红叶养生减压会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">百子湾桥东附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18310873212</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2500457092</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">本店环境优雅，私密幽静，温馨舒适，独特的东方养生理念，针对不同需求的贵宾给予身心减压的极致感受，带给您帝王般的服务感受，您的满意是我们追求的目标和动力。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">75</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1114);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1114' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1115[<div class="basic-info basic-active">
+<h1 class="shop-name">一览芳华SPA       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">北苑路北苑家园</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13552331460</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1826473044</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">私密小店 不张扬不夸张 做诚信服务                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">106</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1115);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1115' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1116[<div class="basic-info basic-active">
+<h1 class="shop-name">唯爱spa养生会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str5"></span>
+<span class="item">1条评论</span>
+<span class="item">人均消费：1500元/人</span>|
+            	<span class="item">技师质量：5</span>|            	
+            	<span class="item">服务态度：5</span>|            	
+            	<span class="item">商家环境：5</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">朝阳区大悦城地铁青年路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">17701382540</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">414586705</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">17701382540</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨0:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |    发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">	
+			繁华的都市，唯爱，在这里，给您最真实的净土与最美好的邂逅。
+	
+
+	<a class="write left-action" href="http://www.dushitiyan.com/ViewShop.aspx?id=86289#cmt"></a>
+</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">505</span>次浏览，<span class="font_2">1</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1116);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1116' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1117[<div class="basic-info basic-active">
+<h1 class="shop-name">霓裳阁       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">建国门附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15624906889</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3334329358</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--24:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">一曲霓虹诉衷肠，半墨书香尽离殇，荷轻漾，夏满塘，镜前端红妆。亭堂姑娘，青笋弹三两行，又起宫商，一曲随风惊世舞霓裳。花落香，只为君，君知否？                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">66</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1117);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1117' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1118[<div class="basic-info basic-active">
+<h1 class="shop-name">小公馆       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">三里屯工体</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13811766067</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1125653625</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13811766067</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨1:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">打造京城小公馆私人定制会所，QQ空间为您提供模特真实照片可供您参考，颜值高、服务好，专业的团队.以顾客为第一的宗旨，让您满意而归。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">85</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1118);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1118' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1119[<div class="basic-info basic-active">
+<h1 class="shop-name">蜜桃派男士体验会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">亚奥国际酒店附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13051766990</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2244070343</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13051766990</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">24小时</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-03   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">抵触亚奥商圈核心区，环境高端大气私密，全程一对一服务无干扰，专注于都市高节奏人群的生活减压放松。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">138</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1119);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1119' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1120[<div class="basic-info basic-active">
+<h1 class="shop-name">贵妃养生       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">东三环三里屯附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13520818796</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1330337852</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">贵妃养生以独特的养生技法，高端的项目设定，让您体会到养生减压休闲的极致享受。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">61</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1120);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1120' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1121[<div class="basic-info basic-active">
+<h1 class="shop-name">斐梵男士尊享馆       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">双井西大望路珠江帝景B区西门商务楼</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">17310152609</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3178339252</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">17310152609</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">斐梵养生，京城最健康的养生会所，覆盖国贸商圈，独特手法，优秀靓丽足模水疗师，高端养生环境，斐梵，只为非凡的你！带您进入梦幻的减压之旅。<br/>
+本店是绿色减压会所，请感觉享受型的顾客放心前往！                  	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">68</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1121);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1121' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1122[<div class="basic-info basic-active">
+<h1 class="shop-name">浅深国际会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">北苑路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18701575591</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2687736880</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">tatami979</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨0:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">中式豪华会所，私密奢华的环境，尊享高端服务，进店体验跨时代的减压盛典！                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">92</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1122);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1122' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1123[<div class="basic-info basic-active">
+<h1 class="shop-name">一缕清丝-男士减压会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">望京合生麒麟社</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15001137090 13146015493</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">11:00--凌晨12:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-15   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">在节奏繁忙的现代化都市中，人们背负着各种压力，失眠、焦虑、紧张，憔悴等接踵而至。所以需要放松，需要减压！在这里，缓解压力，释放身心！                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">78</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1123);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1123' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1124[<div class="basic-info basic-active">
+<h1 class="shop-name">养生水疗集结院       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">静安长寿路武宁路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15000181903</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3174585939 </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15000181903</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">PM 13:00-AM 2:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		营业面积10000余平、设备最齐全的高档会馆、会馆及洗浴、商务、餐饮、大池、休闲娱乐于一体、导入一流产业管理模式、可同时容纳500辆车，超大地下停车场，豪华客房。免费提供水果 饮料 .桑拿部拥有来自全国各地的近百位佳丽，每天出勤最少120人，60间豪华桑拿房间，是您休闲娱乐的首选、服务一共五十多项等等，高端场所，舒心享受。各式磨房齐全 房间极为大气宽敞 毫无压抑闷闭的感觉 高大上！ 
+
+	<br/>
+
+		会所特点：<br/>
+1）上亿元酒店打造高端模特桑拿部门，强大的水疗师团队；<br/>
+2）最多可以容纳数百人<br/>
+3）地下停车库可免费停车百辆<br/>
+4）环境优雅、霸气装修，省去您坐电梯，省繁琐的程序<br/>
+5）可享受各种互动体验不同价格，高端的减压品质；<br/>
+环境介绍： 
+
+		招待介绍：<br/>
+门口有保安免费泊车，大厅会有人亲自招待，店内设有免费WIFI使用，休息过程中的餐饮全部是免费的，每天都有点心，大排面，炒面，春卷，酒酿圆子，番茄蛋汤等各种美味等你来品尝。水疗师服装统一，总体服务为管家式服务。结账可以免费开票和刷卡，开票绝不增加手续费。 
+
+		【营业时间】：PM 13:00-AM 2:00<br/>
+价格 ：全场B898、A1298、Q1698.M1998、S2398
+
+	  
+ 
+	<br/>
+</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">94</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1124);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1124' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1125[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁乐园       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁区中山西路安顺路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18516386654</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1184311928</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">18516386654</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			1）装修豪华，整个会所金碧辉煌，水磨房间很大(每个房间不少于50平）并且都有洗手间；<br/>
+2）年份长久；<br/>
+3）大米经理会亲自接待，尽心的帮您推荐适合您的水疗师，并细心回访，做客户记录以便下次提供更细心的服务，细心态度已成绝对好口碑；<br/>
+环境介绍： 
+
+			会所为了更贴近客人的需求。门口有保安免费泊车。休息区最大的包间可容纳8人，共有20间休息房，水磨房整洁干净，配上超大的镜子让人享受到视觉冲击。 
+
+			B牌：原价898    预约价698<br/>
+A牌：原价1098   预约价898 <br/>
+E牌特聘：原价1298   预约价1098<br/>
+M牌：原价1498   预约价1298<br/>
+S牌：原价1998   预约价1698<br/>
+Q牌：原价2298 预约价1998
+
+			会所内设有免费wifi网使用，免费小点心，小弟服务绝对热情且随叫随到。来宾消费均可开票支持各种付款方式。本店铸造精品口碑  阵容强大 各种服装/全场水磨。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">191</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1125);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1125' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1126[<div class="basic-info basic-active">
+<h1 class="shop-name">古北路减压会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str5"></span>
+<span class="item">1条评论</span>
+<span class="item">人均消费：900元/人</span>|
+            	<span class="item">技师质量：5</span>|            	
+            	<span class="item">服务态度：5</span>|            	
+            	<span class="item">商家环境：5</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">地铁2号线古北路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13524921435   </span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2547021166 </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">vipffs8888 </span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">下午12：30至凌晨3点</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |    发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		上海最高端会所装修完毕，打造上海绝无仅有的感观，水磨情景房，养生木桶房，豪华总统套房.70间磨房创造上海最强阵容，唯一一家五星级桑拿会所.影院休息大厅、汗蒸馆、湿蒸馆、淋浴间、泡澡池、
+
+					招待介绍： 
+
+					免费饮料： 红牛 加多宝 可乐 雪碧 绿茶 乌龙茶 等等，，， 
+
+					各种点心：面条 水饺 馄饨 汤圆通通免费，小弟服务绝对热情且随叫随到。 
+
+					停车场：停车方便 保安热情 免费泊车。 
+
+					贵宾消费均可开票和刷卡，微信 支付宝 财付通 信用卡均可使用。 
+
+					发票：洗浴 餐饮 电子商务 
+
+			A牌  优惠价998/90分钟 
+
+			T牌 优惠价1398/90分钟 
+
+			S牌  优惠价1898/90分钟 
+
+			Q牌  优惠价2598/70分钟 
+
+			小明星 优惠价3188/70分钟 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">336</span>次浏览，<span class="font_2">1</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1126);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1126' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1127[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁洪鑫会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁区老外街</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15800664108</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3092329322</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15800664108</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; ">
+<p class="info info-indent" style="display:none">
+<span class="info-name">优惠信息：</span>
+<span class="item">
+                    劲爆优惠来袭： 全场水磨最高698元/不限，主打项目398元                	</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">	在职水疗技师.30多位，每天出勤保证30以上 汇集全球各地美女水疗师，可任君选择，享受到真正的“霸气”！队伍庞大，类型齐全，……其中17岁到20岁年龄的最多。卫生方面，酒店严格安全质量管理，每月定期对水疗技师体检两次，健康方面有保障。<br/>
+<br/>
+免费餐饮： 混沌→水饺→面条→春卷→拌→茶水→雪碧→果粒橙→可乐（免费吃喝，无限畅饮，无最低消费）红牛免费畅饮 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">147</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1127);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1127' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1128[<div class="basic-info basic-active">
+<h1 class="shop-name">大明湖畔养生会所       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">多店选择，可选择就近消费</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15300888022</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3521476002</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">PM12:00-AM3:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">				低端店：598-898 （大众实惠） <br/>
+中端店：798-1598（聚会娱乐） <br/>
+高端店：998-3998（商务宴请） <br/>
+手机:15300888022  QQ：3521476002 <br/>
+【服务内容】广式水磨ISO/90分钟<br/>
+【技师数量】每天可供选择500位左右 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">192</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1128);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1128' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1129[<div class="basic-info basic-active">
+<h1 class="shop-name">虹口新开水晶公馆   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">虹口区万安路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13816374498     </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">a13816374498</span>
+</p>
+<p class="expand-info">
+<span class="info-name">营业时间：</span>
+<span class="item">PM 13:00-AM 2:00</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			全场598启航价记得提前预约，走过路过千万别错过，精品多多优惠多多组团更是返现大优惠。市区黄金地段白菜价位，您还在等待什么期待什么拿起电话预约吧！ 
+
+	<br/>
+
+			电话:13816374498 微信:a13816374498 
+
+			【场所地址】：虹口区万安路  
+
+			营业时间】：PM 13:00-AM 2:00 
+
+			【服务项目】：ISO/90分钟/不限  
+
+			【价目一览】：每天出勤50+  全场598启航价 
+
+			Q牌会员价：598  每日15位（记得提前预约哦） 
+
+			X牌会员价：898  
+
+			F牌会员价：1198  
+
+			S牌会员价：1498 
+
+			K牌会员价：1698 
+
+			M牌会员价：1898 
+
+			交通便利，停车方便，可刷卡，可开票，可微信支付，可支付宝支付。休息过程中的餐饮全部是免费的，每天都有点心，雪菜鸡蛋面，湾仔码头水饺，江苏混沌，宁波汤圆等各种美味等你来品尝。水疗师服装由制服为主，商家的总体服务为管家式服务。最后结账可以免费开票和刷卡，开票绝不增加手续费！ 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">291</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1129);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1129' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1130[<div class="basic-info basic-active">
+<h1 class="shop-name">松江温泉会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">松江茸梅路，靠近茸平路 呈远商业广场</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13524214904   </span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3373494745</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">tiantian57000</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		本店位于松江区，地理位置优越.闹中取静.店内设备齐全.泡澡池，汗蒸，沐浴用品均为进口用品.PF现分为水磨房.红绳房。各式情景房 。环境幽雅、后现代装修，分为日式风格。水磨房内有水磨床，淋浴头，冰箱、空调，反光镜，电视，等助兴用品！ 
+
+	<br/>
+
+		招待介绍： 
+
+		店内有热情的小弟随叫随到,休息房间有各类特色风味点心，大排面，馄饨，水饺，炒饭，炒面，春卷，牛肉粉丝汤，生煎。爽口饮料有红牛，雪碧，可乐，鲜橙多，美年达，清茶，铁观音，菊花茶，红茶，绿茶等等！预约太平经理免费停车 ，免费茶水饮料和点心。<br/>
+可刷卡、免费提供餐饮发票(可打带公司抬头) 
+
+		组团活动3人起算： 
+
+		<br/>
+3人团每人减30元<br/>
+4人团每人减40元<br/>
+5人团 每人减50元<br/>
+6人团 每人减60元<br/>
+7人团 每人减70元<br/>
+8人团 每人减80元<br/>
+9人团 每人减90元<br/>
+10人及10人以上每人减100元 
+
+		【价目一览】：<br/>
+A牌（原价998￥--预约价798￥<br/>
+T牌(原价1198￥--预约价998￥<br/>
+M牌(原价1498￥--预约价1298￥<br/>
+S牌(原价1798￥--预约价1598￥<br/>
+SS牌（原价2598￥---预约价2298￥  
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">391</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1130);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1130' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1131[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁四季公馆   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁区中山西路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15021659192</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3571197750</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15021659192</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			本会所，地理位置优越.豪华装修. 打造全新环境.店内设备齐全.装修富丽堂皇，含大型私用停车场。建筑面积7200多平.豪华VIP+套房+商务休息房+KTV+酒吧+餐饮+酒店+足疗。沐浴用品均为进口用品.PF现均为水磨房.水磨房内有，淋浴头，空调，反光镜，电视，等用品！一次体验 终生怀念 您给我一次机会 我还你帝王般的享受。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">308</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1131);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1131' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1132[<div class="basic-info basic-active">
+<h1 class="shop-name">ON.1嘉定红院   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">嘉定区江桥 曹安公路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">152-1676-3237</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2524834810</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">COMVXSX</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">本店概不用假照片忽悠人，也没有太多华丽的语言，一切用事实与诚意说话，您的满意就是我最大的追求。过程中的饮料餐饮全部是免费的，每天都有点心，大排面，馄饨等各种美味等你来品尝。店内WIFI全覆盖，停车免费，可当场开抬头发票。为了不浪费你宝贵的时间和电话费，本店不做高开低折广告价位来忽悠各位。                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">459</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1132);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1132' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1133[<div class="basic-info basic-active">
+<h1 class="shop-name">金鹰国际至尊会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">闵行区漕宝路吴中路附近（具体微信私聊）</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13166012638电话：13166012638</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3165597973</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13166012638微信：13166012638</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		本会所地处上海中环附近地段，为上海打造全新既高级享受标准，特聘高端100多位养生水疗佳丽，日本，俄罗斯，韩国，英国，乌克兰，马来西亚等国际水疗师驻场!  70余间豪华桑拿房间，功能非常齐全。高档的设施、优质的服务、专业的管理将让您倍感尊贵。注：每日出勤150+位。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">166</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1133);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1133' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1134[<div class="basic-info basic-active">
+<h1 class="shop-name">徐汇顶尖国际养生会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">徐汇区中山南二路附近东亚富豪酒店地铁11号线</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13127658726</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2647997905</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">A13127658726</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		徐汇区高端会所装修完毕，打造上海绝无仅有的感观，水磨情景房，养生木桶房，豪华Vlp房.50间磨房创造徐汇最强阵容 影院休息大厅、汗蒸馆、湿蒸馆、淋浴间、泡澡池！ 
+
+		招待介绍： 
+
+		免费饮料： 红牛 加多宝 可乐 雪碧 绿茶 乌龙茶 等等，，， 
+
+		各种点心：面条 水饺 馄饨 汤圆通通免费，小弟服务绝对热情且随叫随到。 
+
+		停车场：停车方便 保安热情 免费泊车。 
+
+		来宾消费均可开票和刷卡，微信 支付宝 财付通 外卡均可使用。 
+
+		发票：洗浴 餐饮  
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">186</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1134);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1134' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1135[<div class="basic-info basic-active">
+<h1 class="shop-name">普陀环球港会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">普陀区曹杨路附近（地铁线3、4、11号线）</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15021008030</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3097576288</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15021008030</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			优惠：A牌798、B牌998、T牌1298的优惠价。 
+
+			本店位于市中心核心地段.地理位置优越.闹中取静.店内设备齐全.沐浴用品均为进口用品.PF现分为水磨房.各式情景房 。环境幽雅、后现代装修、群房。水磨房内有水磨床，淋浴头，冰箱、空调，反光镜，电视，等用品！<br/>
+<br/>
+招待介绍： 
+
+			店内有热情的小弟随叫随到,休息房间有各类特色风味点心，大排面，馄饨，水饺，炒饭，炒面，春卷，牛肉粉丝汤，生煎。爽口饮料有红牛，雪碧，可乐，鲜橙多，美年达，清茶，铁观音，菊花茶，红茶，绿茶等等！预约小米经理免费停车
+，免费茶水饮料和点心。可刷卡、免费提供餐饮发票(可打带公司抬头) 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">113</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1135);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1135' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1136[<div class="basic-info basic-active">
+<h1 class="shop-name">江桥顶级会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">嘉定区江桥镇曹安公路靠近华江支路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15821902725</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1522801182</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">se8889990</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		（1）各种类型水疗师应有尽有！让你拥有更大的选择空间 
+
+		（2）老店新开！打造【高大上】环境，，环境一流！是你休闲娱乐和商务应酬首先之店！ 
+
+		（3）预约免费送！所有饮料、点心、小吃、统统免费享用！ 
+
+		（4）本店可提供:餐饮发票，一楼有超大停车场方便免费停车。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">185</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1136);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1136' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1137[<div class="basic-info basic-active">
+<h1 class="shop-name">外滩新店   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">上海市外滩</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15601963786</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2983791312</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15601963786</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			敬告各位大哥：  
+
+			我没有太多华丽的语言！但我为您留下一份真诚！本人一直秉承：诚实做人诚信做事，以客户利益为主，热情地接待，周到的服务，出色的安排，耐心的回答、一定会让您满意,服务求生存，诚心求回头   为了不浪费你宝贵的时间和电话费，本人不做高开低折价位来忽悠网友。以上价格均为预订价，来消费的贵宾请提前15-30分钟预订房间和水疗师。随时恭候您的大驾光临！ 
+
+			  
+
+			50位水疗师没有完美的水疗技师，只有最适合你的水疗技师！  
+
+			 销售不是目的
+我们的服务才刚开始！
+
+			优惠：  
+
+			 A牌原价798 预约买单价598 
+
+			 T牌原价998 预约买单价598 
+
+<br/>
+<br/>
+</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">142</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1137);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1137' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1138[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁 水疗减压会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18321990063</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3274817579</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">ft22ff</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		最新精装修房间定能给带来“香妃般的服务，帝王级的享受”！愿各位大哥能，抽个时间、约上朋友，带上激情，前往本场，来个非常体验！提前电话预定可以享受房费、卫生费全免、凡在我公司消费的客人可以享受免费多款饮料及小吃 
+
+		预约原价B牌1098，活动价格只要998，预约再减200元，只需798<br/>
+ A牌买单1198   时间90分钟 现在预约只要998<br/>
+ M牌买单1498 时间90分钟 现在预约只要1298<br/>
+ T牌买单1798 时间90分钟 现在预约只要 1598<br/>
+ S牌买单2298 时间70分钟（可二次）现在预约只要2098 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">126</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1138);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1138' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1139[<div class="basic-info basic-active">
+<h1 class="shop-name">小天娱乐会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">杨浦区 五角场黄兴路与国定路交叉口</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13262760891</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">200730541</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13262760891</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		简介：全套水磨90分钟，每天保证60+人上班 
+
+		A牌原价898   现价798<br/>
+M牌原价1098 现价898   <br/>
+Q牌原价1298 现价898<br/>
+外菜原价1798 现价898<br/>
+三飞原价2998 现价1298 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">133</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1139);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1139' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1140[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">15221239861</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3072927476</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">15221239861</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">	A牌预约价698；  T牌预约价898；
+
+	M牌预约价1098； S牌预约价1398
+
+本会所是VIP制，只接受预约；预约免费享受：大型停车场，净桑、会议室、各式水果、饮品、小吃、餐饮发票。 前往会所消费的顾客,要打电话预约：15221239861。小叶会亲自接待安排,如有JS服务不到位的地方,可向经理投诉,服务质量才能得到保障.                 	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">232</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1140);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1140' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1141[<div class="basic-info basic-active">
+<h1 class="shop-name">外滩九号会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">上海市外滩</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13764425450</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">996535644</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13764425450</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-20   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">	外滩分店新开，开业期间优惠大酬宾原价1598 现在全场798、998高端  79项服务让你尽显英雄本色。
+
+	【消费价目】:
+
+	      
+A牌原价998          预约单价798
+
+	      
+T牌原价1298         预约单价998
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">132</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">1</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1141);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1141' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1142[<div class="basic-info basic-active">
+<h1 class="shop-name">梦妃乐园       	
+        	</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str5"></span>
+<span class="item">1条评论</span>
+<span class="item">人均消费：1698元/人</span>|
+            	<span class="item">技师质量：5</span>|            	
+            	<span class="item">服务态度：5</span>|            	
+            	<span class="item">商家环境：5</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">通州区传媒大学地铁站附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18310492290</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2792354417</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">18310492290</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/59">哒哒</a> 添加商户   |   添加时间：2017-03-22   |   						<a href="/space-956.html" target="_blank">溜溜球</a>
+					
+ 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">本会所地理位置优越，是一家环境豪华优雅,温馨浪漫的会所， 是您减压放松的极高享受！在职技师相貌美丽、优雅亲和、技术精湛！私密温馨的环境欢迎大家光临！在这里您都可以得到全身心的放松。           一次舒适的养生体验，就是一次很好的心灵与身体的绽放之旅。欢迎您随时来电咨询！                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">737</span>次浏览，<span class="font_2">1</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1142);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1142' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1143[<div class="basic-info basic-active">
+<h1 class="shop-name">虹口旗舰店   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">虹口区靠近四川北路</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13122813582</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2180074549</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13122813582</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">			40多间水磨房，最大的休息房间可以容纳20个人，水磨房整洁干净配上超大的镜子让人享受到视觉的冲击！小弟绝对热情且随叫随到，没有最好，只有更好，只有你想不到，没有我们做不到。我们以耐心，热情，周到，超前 ，为待客宗旨！多年来的行业丰富工作经验，定能为阁下您沏一杯你心中满意的茶！您的要求就是我们的追求！热烈欢迎您的到來,耐心,服务,专业~~~我们要求的质量第一、信誉第一的生意理念。打造完美上海ISO服务。诚信经营=做回头客=绝不忽悠。认证最信赖的团队 
+
+			优惠：998--1998  八折优惠 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">130</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1143);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1143' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1144[<div class="basic-info basic-active">
+<h1 class="shop-name">五角场高端国际会馆   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">杨浦区五角场</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13162063991</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3390758406 </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13162063991</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">	本公馆座落于虹口五角场， 五星配备装修，是上海滩数一数二的准五星桑拿红场，本月初扬帆启航， 中国风装修风格，豪华阵容每天180佳丽～顶级的服务～高优的品质～80间豪华水磨房！全场T台选妃！因为专注，所以专业，国际模特气势  服务零投诉。今生为您提供001世界第一薄或是女生液体用套，让狼友哥哥们在ML的整个过程中一样享受无套的感觉，重要是安全健康，感觉也有，谢谢今生吧。
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">162</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1144);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1144' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1145[<div class="basic-info basic-active">
+<h1 class="shop-name">长宁佳丽养生   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">长宁区古北路仙霞路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">18201830591</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2127405310     </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">li18201830591  </span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">						如今上海减压养生行业混乱不堪，各个场子吹的天花乱坠，结果去了都是失望而归，虚虚实实难分难辨，真正的专业大场其实并不算多，业内公认的火爆旺场。真是屈指可数。宣传词说一千道一万让你越听心越乱，其实归根到底人追求的目的无非就是满意和开心，满意才是硬道理开心缘于服务好。重磅炸弹上海开花，千万重金打造【上海】大场，全凭实力上下结缘，【长宁佳丽三千】现正开放，就让爱来得更猛烈些吧。<br/>
+新场子，新环境，新技师，新服务，一切都给不一样的感觉。<br/>
+会所介绍：<br/>
+耗资千万全新打造，高端装修，舒心服务，让你无论是自己潇洒还是招待贵客都有面子超大停车场免费停车，可当场开发票，店里免费点心，各种小吃，都是请的五星酒店厨师烹饪。店在上海市中心，【长宁区古北路仙霞路】附近，中环，内环，延安高架都很近。交通方便，多条地铁可以直接到达。 <br/>
+【特色介绍】：★:特请日本老师手把手，一教一培圳新服务，3个月一换！ <br/>
+【安全保障】：★:新进技师被严格到指定医院体检后，才能正试培训，每月底28日-30日体检。 <br/>
+【服务保障】：★:态度不好，技师偷懒，项目不足，水疗技师直接处罚。公司制度严厉就是为了服务周到！让大家玩得开心尽兴！ 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">143</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1145);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1145' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1146[<div class="basic-info basic-active">
+<h1 class="shop-name">仙逸公馆   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">仙霞路古北路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13061915250</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">3288399695</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13061915250</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		我们的团队都是从事桑拿行业的红牌经理及管理技师之总管级别人员，“仙逸公馆”可以说是上海桑拿的先驱者，有别于一般在市场上的中介业务，仙逸公馆花重金打造全新欧式装修，上海独一无二的一家,无论价格、服务及质量都有绝对的保证。我们不怕你货比货，但最怕你不识货，本着人性化服务，为了广大LY的出行方便 ，每天上班JS人数超过50多位，在职技师人员超过150+,所有JS真人真相，保证是JS本人, 绝不会货不对版。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">123</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1146);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1146' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1147[<div class="basic-info basic-active">
+<h1 class="shop-name">浦东国际养生会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">浦东新区新金桥路附近地铁：6号线金桥站下</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13020111535</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">2744149312</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13020111535</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		浦东地区，最大，最豪华，最高端的国际会所隆重开幕。我们是全上海唯一一家大型水磨五星级桑拿会所！耗资2000万,豪华装修，水疗间35间！环境优雅，温馨舒适，会所拥有安静的环境，隐秘的位置；灯光柔和，视觉温馨，本国际会所搜汇集全球各地水疗师，可任君选择，享受到真正的“帝王之霸气”！水疗技师队伍庞大，类型齐全。
+
+		开业期间优惠如下： 
+
+		1〉满十次送免费体验一次（可介绍朋友多人累计） 
+
+		2〉三人起组团返红包，组团人数越多优惠越大， 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">208</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1147);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1147' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1148[<div class="basic-info basic-active">
+<h1 class="shop-name">中原国际   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">杨浦区中原路开鲁路 8号线市光路1号出口步行5分钟</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13162313897</span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1952207094 </span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">13162313897</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent">
+<span class="info-name">商铺简介：</span>
+<span class="item">		中原国际娱乐公馆耗资千万,震撼开业，为了更好的回馈后羿客户，全部不加钱，进店就送36倍红牛助力+十全大补汤,让你战斗力持久不断！我还是您最真诚的老朋友带领全店佳丽欢迎新老朋友的光临。每天保证80人上班。 
+                	</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">106</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1148);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1148' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1149[<div class="basic-info basic-active">
+<h1 class="shop-name">心悦轩养生会所   <span class="icon v-shop"></span>
+</h1>
+<div class="brief-info">
+<span class="mid-rank-stars mid-str0"></span>
+<span class="item">0条评论</span>
+<span class="item">人均消费：0元/人</span>|
+            	<span class="item">技师质量：0</span>|            	
+            	<span class="item">服务态度：0</span>|            	
+            	<span class="item">商家环境：0</span>
+</div> <div class="expand-info ">
+<span class="info-name">地址：</span>
+<span class="item">浦东新区金桥路附近</span>
+</div>
+<p class="expand-info tel">
+<span class="info-name">电话：</span>
+<span class="item">13472639874  </span>
+</p>
+<p class="expand-info">
+<span class="info-name">客服QQ：</span>
+<span class="item">1055608374</span>
+</p>
+<p class="expand-info">
+<span class="info-name">微信：</span>
+<span class="item">cmccm168</span>
+</p>
+<!--<a class="unfold" href="javascript:void(0);"><em>更多信息</em><i class="icon"></i></a>-->
+<div class="other" style="padding-top:10px; "><p class="info info-indent">
+<span class="info-name">会员贡献：</span>
+<span class="item">
+<span class="item" id="cccContent"> <a href="/space/60">好地方</a> 添加商户   |   添加时间：2017-03-27   |   暂无用户 发布首条点评 </span>
+</span>
+</p>
+<p class="info info-indent" style="display:none">
+<span class="info-name">数据统计：</span>
+<span class="item">
+<span class="font_2">563</span>次浏览，<span class="font_2">0</span>条点评，<span class="font_2">0</span>个关注
+                	</span>
+</p>
+</div>
+<div class="action">
+<a class="write left-action" href="javascript:xiedianping();"><i class="icon"></i>写点评</a>
+<span class="right-action">
+<a class="share J-weixin" href="javascript:shareweixin();" rel="nofollow" title="微信分享"><i class="icon"></i></a>
+<a class="favorite" href="javascript:add_favorite(1149);" rel="nofollow" title="关注"><i class="icon"></i></a>
+</span>
+</div>
+<script>
+			function xiedianping(){
+				$('html,body').animate({scrollTop:$(document).height()},100);
+			}
+			function shareweixin(){
+				dlgOpen('微信分享',"<img src='http://dpurl.cn/qr?q=http://www.dushispa.com/item/mobile-do-detail-id-1149' style='padding:55px;'>",340);
+			}
+			</script>
+<div class="clear"></div>
+</div>]商户1150
